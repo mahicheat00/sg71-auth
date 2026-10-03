@@ -1,0 +1,6 @@
+{
+  "name": "SG71 Auth Console",
+  "description": "Enterprise user licensing, hardware ID (HWID) lock management, and API administration console for SG71 Auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
